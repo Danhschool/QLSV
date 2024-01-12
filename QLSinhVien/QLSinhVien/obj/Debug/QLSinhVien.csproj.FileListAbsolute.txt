@@ -1,0 +1,16 @@
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmSignin.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.fTableManager.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.UserControls.ucHomePage.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.UserControls.ucScore.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.UserControls.ucSetting.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.UserControls.ucStudent.resources
+D:\DevC#\help\QLSV\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.UserControls.ucSubject.resources
